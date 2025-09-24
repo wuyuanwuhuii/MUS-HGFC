@@ -2,7 +2,7 @@
 Code for our paper "Predicting miRNA-Disease Associations via Multi-Scale Hypergraph Feature Integration"
 
 ## Framework
-![framework](./framework.jpg)
+![framework](./algorithm.png)
 
 ## Data
 
