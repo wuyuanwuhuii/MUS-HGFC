@@ -1,5 +1,5 @@
-# MUS-HGFC: A multi-scale hypergraphs feature connecting model for miRNA-disease associations prediction
-Code for our paper "A multi-scale hypergraphs feature connecting model for miRNA-disease associations prediction"
+# MUS-HGFC: Predicting miRNA-Disease Associations via Multi-Scale Hypergraph Feature Integration
+Code for our paper "Predicting miRNA-Disease Associations via Multi-Scale Hypergraph Feature Integration"
 
 ## Framework
 ![framework](./framework.jpg)
